@@ -1,0 +1,20 @@
+.cardContainer {
+  height: 20%;
+  width: 40%;
+  list-style-type: none;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.image {
+  height: 60%;
+  width: 100%;
+}
+
+.textContainer {
+  text-align: left;
+  margin-left: 5px;
+}
+
+.imageTitle {
+  font-weight: bold;
+}

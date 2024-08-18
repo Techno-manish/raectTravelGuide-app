@@ -1,0 +1,25 @@
+.pageHeading {
+  text-decoration: underline;
+  text-underline-offset: 8px;
+  text-decoration-color: aqua;
+}
+
+.mainContentContainer {
+  height: 100vh;
+  overflow-y: auto;
+  text-align: center;
+}
+
+.travelCardContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 300px;
+}
